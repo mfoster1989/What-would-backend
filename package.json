@@ -1,0 +1,44 @@
+{
+  "name": "wwydbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfoster1989/What-would-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfoster1989/What-would-backend/issues"
+  },{
+    "name": "wwydbackend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/mfoster1989/What-would-backend.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/mfoster1989/What-would-backend/issues"
+    },
+    "homepage": "https://github.com/mfoster1989/What-would-backend#readme",
+    "dependencies": {
+      "body-parser": "^1.18.2",
+      "cors": "^2.8.4",
+      "express": "^4.16.2",
+      "knex": "^0.14.4",
+      "pg": "^7.4.1"
+    }
+  }
+  "homepage": "https://github.com/mfoster1989/What-would-backend#readme"
+}
